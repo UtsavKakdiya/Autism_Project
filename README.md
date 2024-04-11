@@ -1,0 +1,1 @@
+This repository is for the game which is made for Autistic children which is NumberBalloonGame. Through which they can increase their attention span and concentration. Which is made with the help of Python frameworks like PyGame, MediaPipe, etc. The game is works by detecting the index finger of the person and controlling the cursor with index finger for popping the balloon.
